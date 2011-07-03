@@ -1,0 +1,15 @@
+{
+	"style": {
+	},
+
+	"contents": [
+		{
+			"name": "scene",
+			"control": "SceneView",
+			"style": {
+				"width": 'fill-parent',
+				"height": 'fill-parent'
+			}
+		}
+	]
+}

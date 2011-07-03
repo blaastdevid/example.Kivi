@@ -1,0 +1,18 @@
+{
+	"id": "game",
+
+	"style": {
+		"background-color": "#e6e6e6"
+	},
+
+	"contents": [
+		{
+			"name": "scene",
+			"control": "SceneView",
+			"style": {
+				"width": 'fill-parent',
+				"height": 'fill-parent'
+			}
+		}
+	]
+}
